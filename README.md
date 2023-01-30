@@ -4,8 +4,7 @@ In this project I really tried to implement all the elements of object-oriented 
 
 
 We start out by building classes for the program. Each class has methods that are assigned to do a specific job. We encapsulate the data by using abstract keywords so 
-that it cannot be manipulated or changed. The objects in the program inherit color and positioning. I then overide one of the objects to still be an object in the game,
-but it will serve a different purpose and shape in the game. 
+that it cannot be manipulated or changed. The objects in the program inherit color and positioning. Then, I overide one of the objects to still be an object in the game, but it will serve a different purpose and shape in the game. 
 
 The purpose of this program is not only to have an enjoyable game, but to also excercise and organize desgin around the data instead of methods and logic.
 
