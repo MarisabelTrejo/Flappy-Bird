@@ -16,8 +16,8 @@ Raylib was one the tools I used to make the game. It has a great website for inf
 C# is a great language to practice object oriented programming. This language allows you to do a number of different programs and applications on mobile apps, desktop apps, cloud -based services and so on. 
 
 # Useful Websites
-[Raylib.com] (https://www.raylib.com/cheatsheet/cheatsheet.html)
-[W3 Schools] (https://www.w3schools.com/cs/index.php)
+- [Raylib.com] (https://www.raylib.com/cheatsheet/cheatsheet.html)
+- [W3 Schools] (https://www.w3schools.com/cs/index.php)
 
 # Future Work
 - Generate the score
