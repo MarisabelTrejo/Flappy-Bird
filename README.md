@@ -9,28 +9,21 @@ but it will serve a different purpose and shape in the game.
 
 The purpose of this program is not only to have an enjoyable game, but to also excercise and organize desgin around the data instead of methods and logic.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Fh2Kzj3TGO0)
 
 # Development Environment
+Raylib was one the tools I used to make the game. It has a great website for information about building games. I also had to download .NET in order to run my C# sharp program..NET is a framerwork and runtime.
 
-{Describe the tools that you used to develop the software}
-Raylib 
-
-{Describe the programming language that you used and any libraries.}
+C# is a great language to practice object oriented programming. This language allows you to do a number of different programs and applications on mobile apps, desktop apps, cloud -based services and so on. 
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
 
-- [Raylib.com]([http://url.link.goes.here](https://www.raylib.com/cheatsheet/cheatsheet.html))
-- [W3 Schools C#]([http://url.link.goes.here](https://www.w3schools.com/cs/index.php))
+- [Raylib.com](http://url.link.goes.here](https://www.raylib.com/cheatsheet/cheatsheet.html)
+- [W3 Schools C#](http://url.link.goes.here](https://www.w3schools.com/cs/index.php)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
-
 - Generate the score
 - Fix the image of the bird
 - Enhance the neatness

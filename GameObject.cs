@@ -35,10 +35,10 @@ class ColoredObject: GameObject {
 }
 
 class GameRectangle: ColoredObject {
-
+    // Declaring the height and width
     int Width;
     int Height;
-
+    // I am giving the rectangle heigh width and color
     public GameRectangle(int x, int y, int width, int height, Color color): base(color) {
         var NewPosition = new Vector2(x , y);
         Position = NewPosition;
@@ -48,10 +48,12 @@ class GameRectangle: ColoredObject {
         // I want a random height 
     }
     public Rectangle Rect() {
+        // The rectangle will be able to be placed with a certain size
         return new Rectangle(Position.X, Position.Y, Width, Height);
     }
 
     override public void Draw() {
+        // Draw rectangle when called
         Raylib.DrawRectangle((int)Position.X, (int)Position.Y, Width, Height, Color);
         
     }

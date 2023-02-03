@@ -74,7 +74,7 @@ class Floppy {
                 if (obj is GameRectangle) {
                     var shape = (GameRectangle)obj;
                     if (Raylib.CheckCollisionRecs(Player.Rect(), shape.Rect())) {
-                        Console.WriteLine("MEOW");
+                    
                         Raylib.CloseWindow();
                     }
                 }
